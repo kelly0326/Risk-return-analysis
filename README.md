@@ -41,7 +41,7 @@ import matplotlib.pyplot as plt
 ## Usage
 
 #### Description
-
+As a quantitative analyst for a FinTech investing platform, this project involves evaluating four new investment funds managed by prominent fund managers using key risk-management metrics, such as daily returns, standard deviations, Sharpe ratios, and betas. The goal is to identify the fund with the highest investment potential for client portfolios, ensuring the platform maintains low costs while offering effective investment strategies.
   
 #### Processing
 **Cumulative Returns of four whale funds and S&P 500**   
