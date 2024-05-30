@@ -1,7 +1,13 @@
 
 # Risk-return-analysis   
 ---
-In this project, I will work as a quantitative analyst for a FinTech investing platform focused on providing affordable, high-quality online retirement investment solutions. My task is to evaluate four new investment funds managed by prominent fund managers. Using key risk-management metrics—daily returns, standard deviations, Sharpe ratios, and betas—I will analyze and determine which fund offers the most investment potential for inclusion in client portfolios. The goal is to help the platform maintain low costs while offering effective investment strategies to its clients.
+In this project, I will work as a quantitative analyst for a FinTech investing platform focused on providing affordable, high-quality online retirement investment solutions.   
+My task is to evaluate four new investment funds managed by prominent fund managers using key risk-management metrics   
+* daily returns
+* standard deviations
+* Sharpe ratios
+* betas   
+I will analyze and determine which fund offers the most investment potential for inclusion in client portfolios. The goal is to help the platform maintain low costs while offering effective investment strategies to its clients.
 
 
 ## Technologies
@@ -14,12 +20,12 @@ In this project, I will work as a quantitative analyst for a FinTech investing p
 2. Risk Management
    1. Calculate std and var
    2. Calculate `Sharpe Ratio`   
-     > Sharpe Ratio is used to assess a risk and reward relationship
+      > Sharpe Ratio is used to assess a risk and reward relationship
 3. Rolling Data
    1. Calculate 30-day rolling average by using `rolling(window = 30)`
    2. Calculate rolling standard deviation and variance
    3. Calculate rolling beta   
-     > Beta is the figure measures how much an assets return value is likely to change relative to the overall market change
+      > Beta is the figure measures how much an assets return value is likely to change relative to the overall market change
 ---
 
 ## Installation Guide
